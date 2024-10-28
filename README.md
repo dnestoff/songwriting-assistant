@@ -6,6 +6,7 @@ A simple Python script that randomly selects and plays a music/audio file from a
 
 - Python 3.x
 - macOS (uses the `open` command to play files)
+- Directory of audio and/or video files (your music clips)
 
 ## Installation
 
